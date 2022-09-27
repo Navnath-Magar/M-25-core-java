@@ -3,9 +3,7 @@ package demo;
 public class demo2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-       // comment
-		//comm
+		System.out.println("Hello TNS india");
 	}
 
 }
