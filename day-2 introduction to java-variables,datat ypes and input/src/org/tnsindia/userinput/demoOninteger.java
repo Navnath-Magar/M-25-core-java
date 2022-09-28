@@ -9,7 +9,9 @@ public class demoOninteger {
 		Scanner s=new Scanner(System.in);
 		System.out.println("Enter the value of x:");
 		int x=s.nextInt();
-		
+		System.out.println("result is ");
+		System.out.println(x);
+		s.close();
 		
 
 		
